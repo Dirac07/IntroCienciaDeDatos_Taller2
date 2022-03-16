@@ -1,6 +1,6 @@
 # IntroCienciaDeDatos_Taller2
 
-Proyecto: 
+Proyecto: Elecciones Senado 2022
 
 
 Alejandro Palomino - A.palomino@uniandes.edu.co
